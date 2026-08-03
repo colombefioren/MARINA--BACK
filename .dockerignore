@@ -1,0 +1,10 @@
+.git
+.github
+_build
+*.cm[io]
+*.cmi
+*.cmo
+doc
+marina
+test
+.depend
